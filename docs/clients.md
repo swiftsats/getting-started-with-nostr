@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Clients
 nav_order: 3
 ---
 # Nostr Clients 🧭
