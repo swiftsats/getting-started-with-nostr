@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Glossary
 nav_order: 4
 ---
 # Nostr Glossary 📖
