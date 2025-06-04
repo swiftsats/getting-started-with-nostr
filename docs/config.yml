@@ -1,2 +1,6 @@
-nav_order: 1
-has_children: true
+title: Nostr Guide
+description: A beginner-friendly introduction to the Nostr protocol
+theme: just-the-docs
+
+just_the_docs:
+  nav_sort: case_insensitive
