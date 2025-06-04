@@ -1,3 +1,7 @@
+---
+title: Getting Started
+nav_order: 3
+---
 # Nostr Clients 🧭
 
 Nostr clients are like browsers for the Nostr network — they let you post, follow others, zap, and more.
