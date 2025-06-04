@@ -1,3 +1,7 @@
+---
+title: FAQ
+nav_order: 5
+---
 # Nostr FAQ ❓
 
 Answers to common beginner questions about Nostr:
