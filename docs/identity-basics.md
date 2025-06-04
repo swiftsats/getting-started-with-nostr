@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Identity Basics
 nav_order: 2
 ---
 # Nostr Identity Basics 🔐
