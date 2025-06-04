@@ -1,3 +1,7 @@
+---
+title: Getting Started
+nav_order: 4
+---
 # Nostr Glossary 📖
 
 Here’s a plain-language cheat sheet for common Nostr terms:
