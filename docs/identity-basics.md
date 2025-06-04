@@ -1,3 +1,7 @@
+---
+title: Getting Started
+nav_order: 2
+---
 # Nostr Identity Basics 🔐
 
 ### Your Keys = Your Identity
