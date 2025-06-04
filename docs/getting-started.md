@@ -1,3 +1,8 @@
+---
+title: Getting Started
+nav_order: 1
+---
+
 # Getting Started with Nostr 🚀
 
 Welcome! Nostr is not an app — it's a **protocol**. That means you can use different apps (called clients) to access the same network.
