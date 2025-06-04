@@ -1,8 +1,0 @@
-title: Nostr Guide
-description: A beginner-friendly introduction to the Nostr protocol
-theme: just-the-docs
-
-# Enable navigation sidebar
-just_the_docs:
-  logo: ""  # you can add a logo later
-  aux_links: {}
