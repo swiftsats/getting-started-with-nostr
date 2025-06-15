@@ -1,11 +1,3 @@
-# Welcome to Nostr Guide 🌱
-
-This is a beginner-friendly guide to Nostr — a simple, open protocol for decentralized communication.
-
-Whether you're just curious or trying to get set up, this guide walks you through it step by step — no coding needed.
-
----
-
 ## 📚 Quick Navigation
 
 - 🛫 [Getting Started](getting-started.md)  
@@ -23,11 +15,6 @@ Whether you're just curious or trying to get set up, this guide walks you throug
 - ❓ [FAQ](faq.md)  
   Honest answers to beginner questions
 
-  - [How to Log In with Nostr (NAWC)](nawc-login-guide.md)
+- 🧾 [How to Log In with Nostr (NAWC)](nawc-login-guide.md)  
+  A beginner guide to logging into apps with your Nostr identity
 
-
----
-
-Have feedback or want to contribute? Open an issue or submit a pull request!
-
-> This guide is open source and community-led.
