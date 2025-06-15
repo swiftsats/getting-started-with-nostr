@@ -1,6 +1,8 @@
 title: Nostr Guide
-description: A beginner-friendly introduction to the Nostr protocol
+description: A beginner-friendly guide to Nostr
 theme: just-the-docs
 
-just_the_docs:
-  nav_sort: case_insensitive
+aux_links:
+  View on GitHub: https://github.com/swiftsats/nostr_guide
+
+# Optional: logo, favicon, or color customization could be added here later
