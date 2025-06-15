@@ -19,7 +19,7 @@ You generate a cryptographic key — this becomes your identity.
 - Optional: a Lightning wallet to send/receive zaps
 
 ### 📦 Next steps:
-- Try a beginner-friendly client like [iris.to](https://iris.to) or [snort.social](https://snort.social)
+- Try a beginner-friendly client like [primal.net](https://primal.net), [iris.to](https://iris.to) or [snort.social](https://snort.social)
 - Save your keys!
 - Make your first post (“note”)
 
