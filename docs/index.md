@@ -23,6 +23,9 @@ Whether you're just curious or trying to get set up, this guide walks you throug
 - ❓ [FAQ](faq.md)  
   Honest answers to beginner questions
 
+  - [How to Log In with Nostr (NAWC)](nawc-login-guide.md)
+
+
 ---
 
 Have feedback or want to contribute? Open an issue or submit a pull request!
